@@ -10,15 +10,13 @@ DarkForest Briefs is a private research CLI for traders and operators who do not
 
 ## Form Fields To Fill In Before Submit
 
-- Public repo URL: `[PASTE GITHUB REPO URL]`
+- Public repo URL: `https://github.com/frederik-maker/darkforest-briefs`
 - Demo URL or video: `[PASTE LOOM OR VIDEO URL]`
-- SolRouter account / wallet address: `[PASTE WALLET ADDRESS]`
+- SolRouter account / wallet address: `CGry3qWp1jTvGN757s2cVYwwsUsK1bfSknnpWbNHWyNm`
 - X post URL: `[PASTE X THREAD URL]`
 
 ## Required Last-Mile Steps
 
-- Generate a real SolRouter API key.
-- Run the CLI and capture proof that it works with your account.
-- Publish the repo publicly.
+- Fund the SolRouter account, then rerun the CLI and capture proof that it works with your account.
 - Record a short loom.
 - Publish the X thread in `SOCIAL_POST.md`.

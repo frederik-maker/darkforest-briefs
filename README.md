@@ -65,11 +65,18 @@ npm run brief -- --topic "JTO thesis review" --context-file ./notes/jto.txt --ou
 
 ## Demo checklist for the bounty
 
-- Create a real SolRouter API key and wallet-backed account.
+- Create a real SolRouter API key and fund the account with USDC.
 - Run the CLI once with encryption enabled.
 - Capture one screenshot or loom of the command and the generated markdown report.
 - Publish the repo.
 - Post the included X thread and tag `@SolRouterAI`.
+
+## Current live status
+
+- Public repo: `https://github.com/frederik-maker/darkforest-briefs`
+- Wallet address for submission: `CGry3qWp1jTvGN757s2cVYwwsUsK1bfSknnpWbNHWyNm`
+- API key validation passed on April 1, 2026.
+- Current blocker: the SolRouter SDK connection test returns a zero balance and `TEE processing failed` for encrypted chat and live search until the account is funded and/or the sponsor-side TEE issue is resolved.
 
 ## Project structure
 
